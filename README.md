@@ -1,2 +1,2 @@
 # Geek_News
-Um site de noticias voltada para o universo Geek.
+Um site de noticias voltado para o universo Geek.
