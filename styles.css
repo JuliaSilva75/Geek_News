@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(2, 2, 2);
+}
+
+.cor2{
+    -webkit-text-fill-color: rgb(202, 43, 3) ;
+    
+}
+
+.cor1{
+    background-color: rgb(202, 43, 3);
+}
+
+h3{
+    -webkit-text-fill-color: beige;
+    font-size: medium;
+}
+
+p{
+    color: beige;
+    padding: 10px; 
+    width: 270px;
+    right: 200px;
+    text-align: left;
+    font-size: 20;
+ 
+}
+
+img{
+    width: 270px;
+    height: 380px;
+    
+}
+
+
